@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 5000px;
+    overflow-x: hidden;
+    background: #7144AD;
+}
+
+h1 {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #fff;
+    position: fixed;
+    top: 50%;
+    transform: translateY(-50%);
+    white-space: nowrap;
+    font-size: 5em;
+    left: 500px;
+}
